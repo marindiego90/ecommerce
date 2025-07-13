@@ -20,3 +20,5 @@ Cómo ejecutarlo:
 2. Instala dependencias en frontend y backend "npm install"
 3. Corre el backend: "npm run dev"
 4. Corre el frontend: "npm start"
+
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/4d8b3b27-8f39-4168-9227-7466be693e64" />
