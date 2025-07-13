@@ -17,6 +17,6 @@ Funcionalidades:
 
 Cómo ejecutarlo:
 1. Clona el repositorio.
-2. Instala dependencias en frontend y backend (`npm install`)
-3. Corre el backend: `npm run dev`
-4. Corre el frontend: `npm start`
+2. Instala dependencias en frontend y backend "npm install"
+3. Corre el backend: "npm run dev"
+4. Corre el frontend: "npm start"
